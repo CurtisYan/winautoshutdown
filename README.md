@@ -1,4 +1,4 @@
-# WinAutoShutdown[Releases](https://github.com/CurtisYan/winautoshutdown)
+# [WinAutoShutdown](https://github.com/CurtisYan/winautoshutdown)
 一个美观、现代的Windows自动关机应用程序，使用Rust + Tauri构建。
 
 ![WinAutoShutdown](https://curtisyan.oss-cn-shenzhen.aliyuncs.com/img/no_important/202503090211108.png)
@@ -20,7 +20,7 @@
 
 ## 安装使用
 
-1. 下载最新版本的安装包(密码1234)：[](https://curtisyan.lanzn.com/ioLsy2q0kw9a)
+1. 下载最新版本的安装包：[点击下载(密码1234)](https://curtisyan.lanzn.com/ioLsy2q0kw9a)
 2. 运行安装程序，按照提示完成安装
 3. 启动应用程序，设置关机计划
 
